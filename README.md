@@ -1,4 +1,4 @@
-# Hi There, I'm Aristóteles Coutinho! 👋
+# Hi There! 👋
 
 **About me:** 
 Hi, I'm Aristóteles Coutinho, a Software Developer from **Brazil** 🇧🇷. 
